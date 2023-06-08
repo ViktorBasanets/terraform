@@ -1,0 +1,5 @@
+bucket_prefix = "test-learning-terraform-web-app-data"
+domain        = "testlearningterraform.com"
+db_name       = "mydb"
+db_user       = "foo"
+# db_pass = "foobarbaz"
